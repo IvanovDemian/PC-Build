@@ -1,1 +1,1 @@
-# PC-Build
+# PC-Build Учебный проект
